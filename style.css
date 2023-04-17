@@ -1,0 +1,10 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color:  lightgreen;
+}
+h1{
+  border:3px soild red;
+  padding:15px;
+  margin:20px;
+}
